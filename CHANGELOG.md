@@ -11,7 +11,17 @@ adheres to [Semantic Versioning][semver].
 
 ## [Unreleased]
 
-[unreleased]: https://github.com/ameshkov/gocurl/compare/v1.5.0...HEAD
+[unreleased]: https://github.com/ameshkov/gocurl/compare/v1.5.2...HEAD
+
+## [1.5.2] - 2026-05-22
+
+- Preserve original Content-Type in OHTTP requests
+
+[See changes][1.5.2changes].
+
+[1.5.2changes]: https://github.com/ameshkov/gocurl/compare/v1.5.1...v1.5.2
+
+[1.5.2]: https://github.com/ameshkov/gocurl/releases/tag/v1.5.2
 
 ## [1.5.1] - 2026-02-25
 
